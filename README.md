@@ -1,5 +1,5 @@
 # multiply
-A formally verified integer multiply softcore
+A formally verified integer multiply softcore with area of O(N*M*logN) and time O(logN) complexity
 
 Use multiply.v with the following interface: // out_C = in_A * in_B
 
